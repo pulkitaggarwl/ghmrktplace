@@ -27,3 +27,9 @@ One of AZURE_SCRIPT_PATH / AZURE_SCRIPT is mandatory, in case both are defined A
 - `AZURE_SCRIPT` – **Optional** Example: az account list
 - `AZURE_SCRIPT_PATH` – **Optional** 
 
+
+
+
+### Related Actions
+- [GitHub Action for Azure Login](https://github.com/Azure/azure-cli)
+- [GitHub Action for deploying to Azure K8S Service](https://github.com/Azure/azure-cli)
